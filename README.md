@@ -25,6 +25,9 @@ To update, please create an issue or pull request
 |0-50K|35%|
 |50-150K|45%|
 |150K+|20%|
+|US Population urban vs rural split||
+|Urban|80%|
+|Rural|20%|
 |**Advertising metrics**|
 |CPM|$5|
 |CPC|$1|
