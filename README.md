@@ -16,11 +16,15 @@ To update, please create an issue or pull request
 |Population of Asia|4B|
 |Population of Europe|750M|
 |Population of Africa|1.4B|
-|US Population distribution||
+|US Population age distribution||
 |Children 0-18|20%|
 |College 19-25|10%|
 |Working 26-64|50%|
 |65+|20%|
+|US Population Income distribution||
+|0-50K|35%|
+|50-150K|45%|
+|150K+|20%|
 |**Advertising metrics**|
 |CPM|$5|
 |CPC|$1|
