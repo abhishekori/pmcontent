@@ -11,7 +11,16 @@ To update, please create an issue or pull request
 |California Population|40M|
 |NYC Population|8M|
 |Size of US|3M sq miles|
-|Avg US life expectancy|72|
+|Avg US life expectancy|70|
+|World Population|8B|
+|Population of Asia|4B|
+|Population of Europe|750M|
+|Population of Africa|1.4B|
+|US Population distribution||
+|Children 0-18|20%|
+|College 19-25|10%|
+|Working 26-64|50%|
+|65+|20%|
 |**Advertising metrics**|
 |CPM|$5|
 |CPC|$1|
